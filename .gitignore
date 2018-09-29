@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BankApi/.vs
+/BankApi/BankApi/bin/Debug/netcoreapp2.0
+/BankApi/BankApi/obj
